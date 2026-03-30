@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi, I’m Dev
+- Name: Dev Nagpal
+- Branch: CSE
+- Year: 1st Year
 
+I hope to learn coding, teamwork, and how to build a strong professional digital presence.
 <!--
 **devnagpal/devnagpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
